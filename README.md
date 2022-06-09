@@ -5,11 +5,17 @@
 ## Usage
 각 패키지 밑에 테스트코드를 확인하시면 됩니다
 
+---
+
 ### Kotlin Precondition
 
 Kotlin Precondition에 대한 학습 테스트코드  
-위치 : PreconditionsTest.kt
+위치 : [PreconditionsTest.kt](src/test/kotlin/com/brown/kotlinplayground/basic/PreconditionsTests.kt)
 
 * require
 * requireNotNull
 * check
+* checkNotNull
+* error
+
+---
